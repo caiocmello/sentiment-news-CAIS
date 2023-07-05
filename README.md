@@ -41,6 +41,8 @@
 - [ ] TBD
 
 # Data
+- [News articles](https://github.com/caiocmello/sentiment-news-CAIS/tree/main/json_data_english) - json with title and body: separated by outlet and event covered (London or Rio)
+- [Sentiment annotation](https://zenodo.org/record/6323964)
 - 
 # References
 - 
