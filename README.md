@@ -1,9 +1,9 @@
 # sentiment-news-CAIS
 
-# what do we have ?
+# What do we have ?
 - Caio's news headline sentiment annotated dataset
   - No body sentiment    
-# what do we want to do ?
+# What do we want to do ?
 
 ## Part 1 
 ### Entities and Sentiment
