@@ -4,7 +4,7 @@
 # What do we have ?
 - Caio's news headline sentiment annotated dataset
   - No body sentiment
-  - 
+
 # What do we want to do ?
 ## Part 1 
 ### Entities and Sentiment
