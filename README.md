@@ -14,7 +14,7 @@
   - [ ] Targeted sentiment for the selected specific entities.
 - [ ] Calculate the sentiment of the document based on the sentiment of the entities and compare this with
   - [ ] Document level-sentiment analysis
-  - [ ] Headline-sentiment analysis(CAIO's previous work).
+  - [ ] Headline-sentiment analysis (CAIO's previous work).
 - [ ] **Hypothesis** : Targeted sentiment analysis is more informative than sentence-level sentiment analyis.
   - [ ] News headline.
   - [ ] Body version.
