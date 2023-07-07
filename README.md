@@ -8,8 +8,9 @@
 # What do we want to do ?
 ## Part 1 
 ### Entities and Sentiment
-- [ ] Find most relevant entities using NERC within the news articles.
-- [ ] Qualitative analysis of the extracted entities
+- [x ] Find most relevant entities using NERC within the news articles.
+  - We performed NER with Spacy and collected the named entities by count on the files related to London news articles. The file can be found [here](outputs/round1-entities-to-be-analysed.tsv)
+  - [ ] Qualitative analysis of the extracted entities
   - [ ] **Hypothesis** : Simple entities extracted from NER are less significant then the extracte Co-occurence entities (Wikifier).
   - [ ] Targeted sentiment for the selected specific entities.
 - [ ] Calculate the sentiment of the document based on the sentiment of the entities and compare this with
