@@ -11,6 +11,7 @@
 - [x ] Find most relevant entities using NERC within the news articles.
   - **Round 1**
     - We performed NER with Spacy and collected the named entities by count on the files related to London news articles. The file can be found [here](outputs/round1-entities-to-be-analysed.tsv)
+    - Sentence splitting and entity detection was also performed and all files under outputs folder with extension .json.csv are the sentence level entity extracted sentences. 
   - **Round 2**
     - NER with entity resolution. **TODO** 
   - [ ] Qualitative analysis of the extracted entities
