@@ -13,8 +13,8 @@
     - We performed NER with Spacy and collected the named entities by count on the files related to London news articles. The file can be found [here](outputs/round1-entities-to-be-analysed.tsv)
     - Sentence splitting and entity detection was also performed and all files under outputs folder with extension .json.csv are the sentence level entity extracted sentences. 
   - **Round 1.5**
-    - [ ] For each headline in the annotated datasets in Caio's files
-      - [ ] Check if the headline is subjective or objective
+    - [x] For each headline in the annotated datasets in Caio's files
+      - [x] Check if the headline is subjective or objective
       - [ ] **Hypothesis** : Sentiment classification for subjective headlines are better than objective.
       - [ ] Select only headline mentioning entity **MONEY** also check if they are subjective or objective.
         - [ ] And how good the sentiment classifications of subjective and objective sentences is.
