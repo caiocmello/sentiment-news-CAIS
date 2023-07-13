@@ -18,6 +18,7 @@
       - [ ] **Hypothesis** : Sentiment classification for subjective headlines are better than objective.
       - [x] Select only headline mentioning entity **MONEY** also check if they are subjective or objective.
         - [ ] And how good the sentiment classifications of subjective and objective sentences is.
+        - [ ] Created file with combined datasets (daily & guardian) including subjectivity, money annotation and sentiment obtained with combination of 3 classifiers (vader, amazonBERT and sent140BERT) [here](data/combined_subjectivityfile.csv)
    - **Round 2**
     - NER with entity resolution. **TODO** 
   - [ ] Qualitative analysis of the extracted entities
